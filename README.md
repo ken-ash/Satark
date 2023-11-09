@@ -48,6 +48,12 @@ This repository hosts a Crime Prediction project specifically tailored for the c
    ```bash
    jupyter notebook Hyderabad_Crime_Prediction.ipynb
    ```
+## OUTPUTS:
+![Screenshot 2023-09-22 092651](https://github.com/ken-ash/Satark/assets/112432007/986b53ee-407c-4be6-90f4-bf730524da90)
+![Screenshot 2023-09-22 092716](https://github.com/ken-ash/Satark/assets/112432007/bce981d6-fa69-40c1-bd9a-008c51504769)
+![Screenshot 2023-09-22 092807](https://github.com/ken-ash/Satark/assets/112432007/6c2aad1d-3892-43e5-b20d-4b863a03c05a)
+![Screenshot 2023-09-22 092839](https://github.com/ken-ash/Satark/assets/112432007/c7f36fbc-a9e0-4cfb-b322-bcaeefd8ddc3)
+![Screenshot 2023-09-22 092856](https://github.com/ken-ash/Satark/assets/112432007/8c9ea65e-5435-466a-9cbf-1a6bfe57ffed)
 
 Explore the notebook to gain insights into crime patterns specific to Hyderabad and understand the predictions made by machine learning models.
 
